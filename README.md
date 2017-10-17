@@ -54,4 +54,4 @@
 
 ## 1.5 – A complete preliminary Entity-Relationship Diagram [ERD] for the database [NOT hand-drawn, PLEASE!]
 
-![ERD Design](Images/ERD-Diagram.jpeg)
+![ERD Design](Images/ERD-Diagram.jpg)
