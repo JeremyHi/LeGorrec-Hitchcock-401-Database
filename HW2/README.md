@@ -26,4 +26,4 @@ Detailed Database Design document
         * [post_location] (where the item in the post is held on earth)
         * [time_of_post] (when the post was created)
 ### __2.3__
-![ERD](Homework 2 Databases.jpg)
+![ERD](HW2.jpg)
