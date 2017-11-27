@@ -12,12 +12,11 @@
 * We will store users, user rating, number of art pieces sold, uploaded art, liked art, previously purchased art, previously sold art, art information such as prices, photos, description, time of posting, and number of likes on post.
 
 ## 1.3 – At least five examples of the type of data your database will provide to the user
-* A list of the most recent art postings with related images, prices, likes, and artist information.
+* A list of the posts for each user by data.
 * An ability to search the art in our databases and have the results displayed in a list with related post data.
-* An ability to search the artists in our databases and have the results displayed in a list with related post data.  
+* An ability to search the artists(Users) in our databases and have the results displayed in a list with related post data.  
 * A specific artist's page with a list of work the artist has for sale.
-* Detailed page on a specific art piece for sale with all information displayed and an option to buy the art piece through Paypal.
-* User analytics
+* Get each post that the User has on the site.
 
 ## 1.4 – A preliminary idea of the schema of the database including table descriptions and potential columns
 * __Table__
