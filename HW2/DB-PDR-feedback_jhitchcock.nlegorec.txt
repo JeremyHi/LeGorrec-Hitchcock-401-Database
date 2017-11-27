@@ -1,0 +1,16 @@
+
+
+Nick and Jeremy ---
+
+Very nice work on this document.
+
+On the ERD, you can keep the lines from crossing by moving the
+Artist entity down and moving the "selling an" relation up.
+....just sayin'....
+
+Make sure you underline the primary keys on your ERD.
+
+Otherwise, an excellent job!
+
+Total: 10% out of 10% which is an A-plus!
+
